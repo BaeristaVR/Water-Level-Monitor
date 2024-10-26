@@ -1,1 +1,1 @@
-#This project brings support for the community of github to make our works become resourceful.
+#This project brings support for the community of github to make our works become easy and resourceful.
